@@ -31,7 +31,7 @@ const components = {
         <Heading level={3} className="!text-2xl !font-bold">
           RENT
           <span className="text-secondary-500 font-light hover:!text-primary-300">
-            IFUL
+            Management
           </span>
         </Heading>
         <p className="text-muted-foreground mt-2">
